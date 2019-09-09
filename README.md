@@ -6,3 +6,6 @@ After this one you have :
 Fractol
 RTv1
 RT
+
+to launch it :
+make && ./fdf ressources/fdf_ressources/maps/42.fdf
